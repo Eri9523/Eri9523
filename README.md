@@ -18,6 +18,18 @@ Hey there! I'm Sergio Corral, also known as Eri 👋
 
 ---
 
+## Open Source Projects
+
+| Project | Description | Programming Language(s) |
+|---------|-------------|------------------------|
+| [**Chain2Api**](https://github.com/Eri9523/Chain2Api) | SmartContracts to API. Service that bridges smart contracts and RESTful endpoints. | Python |
+| [**AI Chatbot**](https://github.com/Eri9523/AI-Chat) | AI chatbot API with FastAPI, JWT, OpenAI, RAG (ChromaDB), and clean architecture. | Python |
+| [**Crypto tracker dashboard**](https://github.com/Eri9523/cryptotracker-dashboard) | Crypto portfolio web app with React, TypeScript, Vite, modular architecture, and real-time NFT/token data. | TypeScript, React |
+| [**Pokemon Pokedex**](https://github.com/Eri9523/pokedex) | Pokédex using React, custom hooks, ErrorBoundary, React Router DOM, TypeScript, and advanced state management. | TypeScript, React |
+
+
+---
+
 ## 💻 Tech Stack
 
 <div align="center">
@@ -48,8 +60,10 @@ Hey there! I'm Sergio Corral, also known as Eri 👋
 
 </div>
 
----
 
 **Welcome to my profile!**
 
 </div>
+
+---
+
