@@ -27,6 +27,7 @@ Hey there! I'm Sergio Corral, also known as Eri 👋
 | [**Crypto tracker dashboard**](https://github.com/Eri9523/cryptotracker-dashboard) | Crypto portfolio web app with React, TypeScript, Vite, modular architecture, and real-time NFT/token data. | TypeScript | React |
 | [**Pokemon Pokedex**](https://github.com/Eri9523/pokedex) | Pokédex using React, custom hooks, ErrorBoundary, React Router DOM, TypeScript, and advanced state management. | TypeScript | React |
 | [**NFT Bulk Renamer**](https://github.com/Eri9523/NFT_Bulk_Renamer) | Automatically renames Axie NFTs to display their latest USD price by fetching recent ETH transactions, decoding relevant data, converting values to USD, and updating each Axie's name accordingly. | Python | Blockchain |
+| [**Minimal Event-Driven Architecture (EDA)**](https://github.com/Eri9523/miniEda/blob/develop/README.md) | Asynchronous event-driven architecture using decorators and a central event bus for decoupled business logic. Decorator-based subscription, asyncio concurrency, centralized logging, and no external dependencies. | Python | Architecture |
 
 
 ---
