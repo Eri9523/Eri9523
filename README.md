@@ -22,6 +22,7 @@ Hey there! I'm Sergio Corral, also known as Eri 👋
 
 | Project | Description | Programming Language(s) | Tech/Domain |
 |---------|-------------|------------------------|-------------|
+| [**opencode-plugin-anti-loop**](https://github.com/Eri9523/opencode-plugin-anti-loop) | opencode plugin that detects identical back-to-back tool calls and aborts them, breaking model loops with one md5 per call. Normalizes args and ignores cosmetic fields. | TypeScript | AI / Tooling |
 | [**Chain2Api**](https://github.com/Eri9523/Chain2Api) | SmartContracts to API. Service that bridges smart contracts and RESTful endpoints. | Python | Blockchain |
 | [**AI Chatbot**](https://github.com/Eri9523/AI-Chat) | AI chatbot API with FastAPI, JWT, OpenAI, RAG (ChromaDB), and clean architecture. | Python | AI |
 | [**Crypto tracker dashboard**](https://github.com/Eri9523/cryptotracker-dashboard) | Crypto portfolio web app with React, TypeScript, Vite, modular architecture, and real-time NFT/token data. | TypeScript | React |
